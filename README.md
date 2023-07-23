@@ -1,4 +1,4 @@
-# Sentiment-Analysis-ML-Flask-App
+no# Sentiment-Analysis-ML-Flask-App
 A machine learning end to end flask web app for sentiment analysis model created using Scikit-learn &amp; VADER Sentiment. <br />
 The project uses libraries like : <br />
 Flask <br />
@@ -20,5 +20,4 @@ Sentiment analysis refers to analyzing an opinion or feelings about something us
 There are many sources of public sentiment e.g. public interviews, opinion polls, surveys, etc. However, with more and more people joining social media platforms, websites like Facebook and Twitter can be parsed for public sentiment. <br />
 <br />
 The output looks like : <br />
-![](sentiment.gif)
 
